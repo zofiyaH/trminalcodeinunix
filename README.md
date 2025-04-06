@@ -1,11 +1,17 @@
 
-This is a simple and beginner-friendly C project designed to help you practice working with the terminal in Unix/Linux environments.
-It includes basic input/output operations and simple logic using standard C syntax.
+TRMINAL.C
 
-Great for students or anyone new to:
+This is a simple C program written for practicing basic terminal commands in Unix/Linux environments.
 
-Compiling C code with GCC
+Description: The program demonstrates the use of standard C syntax, including input/output and basic logic. It is useful for beginners who want to get familiar with C programming on the command line.
 
-Running programs from the terminal
+How to Compile and Run:
 
-Understanding how command-line tools work
+Open a terminal in the folder where TRMINAL.C is located.
+Compile using: gcc TRMINAL.C -o trminal
+Run using: ./trminal
+Requirements:
+
+GCC compiler
+Unix/Linux terminal or Git Bash on Windows
+Notes: This project is for learning purposes. Feel free to modify it
